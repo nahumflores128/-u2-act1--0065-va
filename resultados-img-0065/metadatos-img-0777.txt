@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: tostadora.jpg
+Ruta del archivo: C:\IA_Gpo3H\VA_0065\u2-act1-va-0065\img-original-0065\tostadora.jpg
+Formato por extension: .JPG
+Tamano en bytes: 16444
+Tamano en KB: 16.06
+Tamano en MB: 0.0157
+
+DIMENSIONES
+-----------
+Ancho: 570 pixeles
+Alto: 574 pixeles
+Resolucion: 570 x 574
+Total de pixeles: 327,180
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 148.01
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 113.15
+Verde (G): 150.30
+Rojo (R): 180.59
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
